@@ -33,7 +33,12 @@ Al dar inicio a nustro codigo se desplegara una consola con las opciones
 -Detectar contidad de engons y triangulos
 
 
-![image alt] ()
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/2f4e4e1ee8ba2b68529d9a9f23fca2fce46d7683/Bio_Mariano_zulueta/mala%20topologia.JPG)
+
+Ahora que tenemos nuestro asset vamos generar mala topologia para el ejemplo
+
+![image alt]()
+
 
 
 
