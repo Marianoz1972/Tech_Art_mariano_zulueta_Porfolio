@@ -46,8 +46,10 @@ El resto de los colores son triangulos.
 Tambien tendremos el recuento de los mismos.
 
 
-![Screenshot 1](ruta/a/imagen1.jpg)  
-![Screenshot 2](ruta/a/imagen2.jpg)
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/c16f6cda578f5903557eeed36945f05c5afe06d8/Bio_Mariano_zulueta/final.JPG)
+
+Con estos resultado podremos transformar los engons en tranqgulos, limpiar topologia o gemerar cuats
+
 
 ## 🎬 Video Demo
 
