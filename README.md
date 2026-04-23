@@ -69,7 +69,6 @@ Gracias por mirar.
 
 ---
 
-## 🚀 Uso
 
 ```bash
 git clone https://github.com/usuario/proyecto.git
