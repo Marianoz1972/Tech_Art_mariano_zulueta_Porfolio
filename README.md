@@ -37,14 +37,14 @@ Al dar inicio a nustro codigo se desplegara una consola con las opciones
 
 Ahora que tenemos nuestro asset vamos generar mala topologia para el ejemplo
 
-![image alt]()
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/bd10d927235041469ae16568193631a414b1f1e7/Bio_Mariano_zulueta/detecta%20engons%20y%20trialgulos.JPG)
 
+Al utilizar nuestra herramineta podremo visualizar que los engons se iluminan de color rojo.
 
+El resto de los colores son triangulos.
 
+Tambien tendremos el recuento de los mismos.
 
-
-
--Ñas detecciones se pintaram de color para identificarlas
 
 ![Screenshot 1](ruta/a/imagen1.jpg)  
 ![Screenshot 2](ruta/a/imagen2.jpg)
