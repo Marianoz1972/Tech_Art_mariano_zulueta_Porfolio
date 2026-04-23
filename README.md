@@ -21,9 +21,25 @@ Este codigo sera robusto y confiable y se transformara en nuestro boton de acces
 
 ## 📷 Capturas
 
-![image alt]( )
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/0154bb875d2409886d6c1f06945ab7b79dd5d37f/Bio_Mariano_zulueta/inicio.JPG )
 
-como primera medida eligiremos nuestro assets para comprobar su estructura
+Como primera medida eligiremos nuestro assets para comprobar su estructura
+Al dar inicio a nustro codigo se desplegara una consola con las opciones
+
+-Podremos analizar nuestra topologia
+
+-Detectar engons
+
+-Detectar contidad de engons y triangulos
+
+
+![image alt] ()
+
+
+
+
+
+-Ñas detecciones se pintaram de color para identificarlas
 
 ![Screenshot 1](ruta/a/imagen1.jpg)  
 ![Screenshot 2](ruta/a/imagen2.jpg)
