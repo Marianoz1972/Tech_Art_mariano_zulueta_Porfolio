@@ -21,6 +21,10 @@ Este codigo sera robusto y confiable y se transformara en nuestro boton de acces
 
 ## 📷 Capturas
 
+![image alt]( )
+
+como primera medida eligiremos nuestro assets para comprobar su estructura
+
 ![Screenshot 1](ruta/a/imagen1.jpg)  
 ![Screenshot 2](ruta/a/imagen2.jpg)
 
