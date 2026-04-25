@@ -289,7 +289,23 @@ Herramienta en PANTALLA
 Efectos
 
 ![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/d0ef1b21cd1802b585a534ca63e3f3ef919af91a/luz%20de%20luna.JPG)
-![image alt]()
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/ab61fd0ee6cf28de46f1a2e7832b6602cbcb2137/domo.JPG)
+
+🎥 video
+
+
+https://github.com/user-attachments/assets/8a3bff35-7361-4a2b-960f-1b5a1453aaa9
+
+💥 Valor como herramienta
+
+Esta tool no solo automatiza tareas, sino que:
+
+👉 Estandariza calidad visual
+👉 Reduce errores humanos
+👉 Permite enfocarse en lo creativo
+
+
+
 
 
 
