@@ -198,10 +198,85 @@ Procesa cientos de assets sin intervención
 
 Compatible con motores como Unreal Engine
 
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/b466b7c6acd616cbc2327045522d062c5c35319a/ChatGPT%20Image%2023%20abr%202026%2C%2007_18_49%20p.m..png)
 
 
 
+💡 Lighting Tool PRO
 
+🎯 ¿Qué hace esta herramienta?
+
+Lighting Tool PRO es una herramienta desarrollada para Autodesk Maya que automatiza la creación de setups de iluminación profesionales con un solo clic.
+
+Permite generar diferentes moods visuales sin necesidad de configurar luces manualmente.
+
+🧠 Objetivo principal
+
+Reducir el tiempo de trabajo en iluminación y garantizar:
+
+Consistencia visual
+Rapidez en iteración
+Resultados cinematográficos inmediatos
+
+⚙️ ¿Cómo funciona?
+
+La herramienta:
+
+Detecta el objeto seleccionado
+Calcula su posición en el espacio
+Genera automáticamente un sistema de luces
+Orienta las luces hacia el objeto
+Ajusta intensidad/exposure según el motor de render
+
+🎛️ Presets incluidos
+
+🌙 Luz de Luna
+
+Tipo: Iluminación nocturna
+
+Características:
+
+Luz direccional azul (luz lunar)
+Fill suave para conservar detalle
+Sombras frías y profundas
+
+Uso ideal:
+
+Escenarios exteriores
+Ambientes fríos / nieve
+Narrativa cinematográfica nocturna
+
+⚪ NEUTRO
+
+Tipo: Iluminación dramática
+
+Características:
+
+Luz principal roja profunda
+Fill azul frío
+Alto contraste
+
+Uso ideal:
+
+Escenas con tensión
+Storytelling visual
+Composición cinematográfica
+
+🎨 Portfolio Setup
+
+Tipo: Iluminación de estudio
+
+Características:
+
+Sistema de 3 luces (key / fill / rim)
+Iluminación balanceada
+Sombras suaves
+
+Uso ideal:
+
+Presentación de assets
+Portfolio
+Render final limpio
 
 
 
