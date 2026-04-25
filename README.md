@@ -278,7 +278,13 @@ Presentación de assets
 Portfolio
 Render final limpio
 
-![image alt]()
+Escenario Inicial
+
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/9420c66e9cc0cde0a2a0e205e7c39e792170f1b4/escena%20inicial.JPG)
+
+Herramienta en PANTALLA
+
+
 
 
 
