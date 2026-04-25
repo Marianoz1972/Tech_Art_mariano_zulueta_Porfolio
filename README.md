@@ -87,6 +87,44 @@ reducir errores humanos y optimizar el pipeline de assets
 
 En producción, es común tener:
 
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/078209cba3b103761ab682676fb066289602288c/nombre%20inicial.JPG)
+
+👉 Problema:
+
+Naming inconsistente
+Difícil de integrar en motores como Unreal o Unity
+
+⚙️ 3. SOLUCIÓN PROPUESTA
+
+Se desarrolla una herramienta en Maya que:
+
+Procesa múltiples FBX desde una carpeta
+Analiza cada asset
+Aplica reglas de naming automáticamente
+Reexporta los archivos corregidos
+
+🖥️ 4. INTERFAZ DE LA HERRAMIENTA
+
+La tool se ejecuta dentro de Maya y presenta:
+
+Selector de carpeta
+Opción Dry Run (simulación)
+Botón de ejecución
+
+👉 Pensada para artistas (uso simple y directo)
+
+🔄 5. FLUJO DE TRABAJO
+🔹 Paso 1 — Selección de carpeta
+
+El usuario elige una carpeta con archivos .fbx
+
+
+
+
+
+
+
+
 
 
 
