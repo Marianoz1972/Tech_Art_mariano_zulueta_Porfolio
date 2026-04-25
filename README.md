@@ -130,7 +130,68 @@ No modifica nada
 
 👉 Permite validar antes de ejecutar
 
+🔹 Paso 3 — Procesamiento real
 
+La herramienta:
+
+Abre cada FBX en Maya
+Limpia la escena
+Detecta tipo de asset
+Renombra el objeto principal
+Reexporta el archivo
+
+
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/49134d2059150a3b468570519aaffe6dc7138333/cambio%20de%20nombre.JPG)
+
+🧠 6. LÓGICA DE CLASIFICACIÓN
+
+La herramienta detecta el tipo automáticamente:
+
+🦴 Si tiene joints → personaje
+🧩 Si tiene múltiples meshes → FX
+🧱 Caso contrario → entorno
+
+🔤 7. SISTEMA DE NAMING
+
+Se aplican prefijos estándar:
+
+Tipo	Prefijo
+Entorno	                 prop_env_
+FX	                     sm_fx_
+Personaje	               char_npc_
+
+CONCLUSIÓN
+
+La herramienta transforma un proceso manual y propenso a errores
+en un sistema automatizado, consistente y escalable dentro de Maya,
+alineado con prácticas reales de producción.
+
+
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/49134d2059150a3b468570519aaffe6dc7138333/cambio%20de%20nombre.JPG)
+
+🎥 video
+
+
+
+
+
+
+🚀 BENEFICIOS EN PIPELINE
+✔ Consistencia
+
+Naming uniforme en todos los assets
+
+✔ Automatización
+
+Elimina tareas manuales repetitivas
+
+✔ Escalabilidad
+
+Procesa cientos de assets sin intervención
+
+✔ Integración
+
+Compatible con motores como Unreal Engine
 
 
 
