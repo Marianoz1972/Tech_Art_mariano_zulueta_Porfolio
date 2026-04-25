@@ -63,12 +63,37 @@ Acá podemos visualizar la demostración.
 
 ---
 
-Gracias por mirar.
 
 
 
 ---
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/b466b7c6acd616cbc2327045522d062c5c35319a/ChatGPT%20Image%2023%20abr%202026%2C%2007_18_49%20p.m..png)
+
+#  Desarrollo de herramientas para Maya
+
+🎯 1. OBJETIVO DE LA HERRAMIENTA
+
+Esta herramienta dentro de Autodesk Maya automatiza:
+
+Renombrado masivo de archivos .fbx
+Corrección de naming interno de los objetos
+Clasificación automática de assets
+Estandarización de convenciones de naming
+
+👉 Objetivo principal:
+reducir errores humanos y optimizar el pipeline de assets
+
+🧰 2. CONTEXTO DE USO
+
+En producción, es común tener:
+
+
+
 
 
 ```bash
+
+
+
+
 
