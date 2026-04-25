@@ -171,7 +171,10 @@ alineado con prácticas reales de producción.
 
 🎥 video
 
-![video alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/a494def3c9caeec3cc0968d79f870e5c4fbd1cf4/2026-04-24%2023-38-31.mp4)
+
+
+https://github.com/user-attachments/assets/6a05380a-71e5-4aa7-a574-ef0e22b87d7d
+
 
 
 
