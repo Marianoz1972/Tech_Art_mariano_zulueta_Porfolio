@@ -118,6 +118,19 @@ Botón de ejecución
 
 El usuario elige una carpeta con archivos .fbx
 
+![image alt](https://github.com/Marianoz1972/Tech_Art_mariano_zulueta_Porfolio/blob/4d6cbb46491fa4a26fc22436af399ce78982e03e/elegimos%20carpeta.JPG)
+
+🔹 Paso 2 — Simulación (Dry Run)
+
+La herramienta:
+
+Analiza los archivos
+Determina cambios necesarios
+No modifica nada
+
+👉 Permite validar antes de ejecutar
+
+
 
 
 
